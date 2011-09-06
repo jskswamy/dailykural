@@ -1,0 +1,12 @@
+1. displaying tamil font in android
+2. create a dialog and display some tamil text in it
+3. convert the csv into sqllite database format
+4. load data into android's sqllite database if empty
+5. notification enabling and disabling it
+6. widget.
+7. reading plan
+8. translations
+9. randomized rendering
+10. context based rendering
+11. integrating with fb and twitter and display tirukural based on moods
+12. share it on twitter
